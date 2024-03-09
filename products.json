@@ -1,0 +1,172 @@
+[
+    {
+      "name": "iPhone 13",
+      "price": 999,
+      "featured": true,
+      "rating": 4.9,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 11",
+      "price": 999,
+      "featured": true,
+      "rating": 4.9,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy S22",
+      "price": 1099,
+      "featured": false,
+      "rating": 4.8,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "samsung"
+    },
+    {
+      "name": "Dell XPS 15",
+      "price": 1599,
+      "featured": false,
+      "rating": 4.7,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "dell"
+    },
+    {
+      "name": "Mi 11",
+      "price": 799,
+      "featured": true,
+      "rating": 4.6,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "mi"
+    },
+    {
+      "name": "iPhone 12",
+      "price": 899,
+      "featured": true,
+      "rating": 4.9,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy Note 20",
+      "price": 999,
+      "featured": false,
+      "rating": 4.7,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Inspiron 15",
+      "price": 1299,
+      "featured": false,
+      "rating": 4.6,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "dell"
+    },
+    {
+      "name": "Mi 10",
+      "price": 699,
+      "featured": true,
+      "rating": 4.5,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "mi"
+    },
+    {
+      "name": "iPhone SE",
+      "price": 399,
+      "featured": true,
+      "rating": 4.7,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy A52",
+      "price": 499,
+      "featured": true,
+      "rating": 4.6,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Latitude 14",
+      "price": 1199,
+      "featured": false,
+      "rating": 4.5,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "dell"
+    },
+    {
+      "name": "Mi Note 10",
+      "price": 599,
+      "featured": true,
+      "rating": 4.4,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "mi"
+    },
+    {
+      "name": "iPhone 11",
+      "price": 699,
+      "featured": true,
+      "rating": 4.8,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy S21",
+      "price": 899,
+      "featured": false,
+      "rating": 4.6,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Precision 15",
+      "price": 1699,
+      "featured": false,
+      "rating": 4.7,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "dell"
+    },
+    {
+      "name": "Mi 9T",
+      "price": 499,
+      "featured": true,
+      "rating": 4.5,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "mi"
+    },
+    {
+      "name": "iPhone XR",
+      "price": 599,
+      "featured": false,
+      "rating": 4.7,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy Note 10 Lite",
+      "price": 699,
+      "featured": true,
+      "rating": 4.6,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Vostro 14",
+      "price": 899,
+      "featured": false,
+      "rating": 4.5,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "dell"
+    },
+    {
+      "name": "Mi Mix 3",
+      "price": 399,
+      "featured": true,
+      "rating": 4.4,
+      "createdAt": "2024-03-05T00:00:00.000Z",
+      "company": "mi"
+    }
+    
+  ]
+  
