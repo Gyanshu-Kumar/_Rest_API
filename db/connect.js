@@ -7,7 +7,7 @@ const connectDB = async (uri) => {
     console.log("MongoDB connected successfully");
   } catch (error) {
     console.error("MongoDB connection error:", error);
-    throw error; // Rethrow for external handling
+    throw error; 
   }
 };
 
